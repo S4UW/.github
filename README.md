@@ -19,7 +19,7 @@ Lifelong Learner, currently working as budagh kompeni.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://x.com/s4uw">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.vercel.app/x/000" />
 </a>
 <a href="https://www.instagram.com/s4uw/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
